@@ -9,6 +9,7 @@ coverage
 
 
 package-lock.json
+
 lib
 notes.md
 .DS_Store
