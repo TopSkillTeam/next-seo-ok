@@ -6,6 +6,8 @@ dist
 cypress/videos
 cypress/screenshots
 coverage
+
+
 package-lock.json
 
 lib
