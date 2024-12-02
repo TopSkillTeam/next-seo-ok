@@ -2,6 +2,7 @@ node_modules
 *.log
 .next
 .history
+
 dist
 cypress/videos
 cypress/screenshots
